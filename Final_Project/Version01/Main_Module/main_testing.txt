@@ -1,0 +1,85 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+This is testing of the main 1 C code
+Type the characer position within the string:
+28
+The character found at 28 position is '1'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Our group has 4 members
+Type the characer position within the string:
+5
+The character found at 5 position is 'r'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+hello, welcome to CPR Final project
+Type the characer position within the string:
+6
+The character found at 6 position is ' '
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+hi there
+Type the characer position within the string:
+1
+The character found at 1 position is 'i'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Welcome to
+Type the 2st string:
+our group project
+Concatenated string is 'Welcome to our group project'
+Type the 1st string (q - to quit):
+We are 4 members -
+Type the 2st string:
+Sameer,Usama,Khizar and Anmol
+Concatenated string is 'We are 4 members -Sameer,Usama,Khizar and Anmol'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+this is cool
+Converted number is 0
+Type the int numeric string (q - to quit):
+ 123456789 is my cell number
+Converted number is 123456789
+Type the int numeric string (q - to quit):
+my email is 123@yahoomail.com
+Converted number is 0
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Tokenizing Words Demo ***
+Type a few words seperated by space(q - to quit):
+Hi Hello Hey Bye
+Word is #1 is 'Hi'
+Word is #2 is 'Hello'
+Word is #3 is 'Hey'
+Word is #4 is 'Bye'
+Type a few words seperated by space(q - to quit):
+This is testing of Main.c
+Word is #1 is 'This'
+Word is #2 is 'is'
+Word is #3 is 'testing'
+Word is #4 is 'of'
+Word is #5 is 'Main.c'
+Type a few words seperated by space(q - to quit):
+Thanks,bye take care
+Word is #1 is 'Thanks,bye'
+Word is #2 is 'take'
+Word is #3 is 'care'
+Type a few words seperated by space(q - to quit):
+q
+*** End of the Tokenizing Words Demo ***
+
+
+D:\CPR101\Final Project\Project Source Code\VERSION 1\Final Project\Debug\Final Project.exe (process 15252) exited with code 0.
+Press any key to close this window . . .

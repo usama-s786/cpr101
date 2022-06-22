@@ -1,0 +1,15 @@
+Tokeninzing test cases
+test case1 //when the word within the string are seperated with spaces
+Type a few words seperated by space(q - to quit):
+aa      aa
+Word is #1 is 'aa'
+Word is #2 is ' aa'
+test case 2 //when the word within the string are seperated with two tabs
+Type a few words seperated by space(q - to quit):
+aa                              as
+Word is #1 is 'aa                               as'
+Test Case 3 //when the word within the string are seperated with two spaces in between
+Type a few words seperated by space(q - to quit):
+aa  aa
+Word is #1 is 'aa'
+Word is #2 is 'aa'

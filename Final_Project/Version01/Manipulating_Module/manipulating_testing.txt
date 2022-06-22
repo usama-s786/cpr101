@@ -1,0 +1,26 @@
+1. Test case 1 // When 1st string and 2nd string are numbers
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+123
+Type the 2st string:
+456
+Concatenated string is '123456'
+
+2. Test case 2 // When 1st string and 2nd string are aphabets 
+Type the 1st string (q - to quit):
+abc
+Type the 2st string:
+edf
+Concatenated string is 'abcedf'
+
+3. Test case 3 // When 1st string and 2nd string are special characters
+Type the 1st string (q - to quit):
+###
+Type the 2st string:
+***
+Concatenated string is '###***'
+
+4. Test case 4 // To quit function user inputs q
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***

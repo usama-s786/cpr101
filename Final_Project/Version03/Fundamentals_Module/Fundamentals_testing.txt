@@ -1,0 +1,66 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+C is 1 of the best programming language !!!
+Type the characer position within the string:
+29
+The character found at 29 position is 'g'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Here is my input !
+Type the characer position within the string:
+35
+Too big... Position reduced to max. available
+The character found at 17 position is '!'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
+Type the characer position within the string:
+55
+Too big... Position reduced to max. available
+The character found at -1 position is '╠'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+This is a string input which is much larger than 79 characters and the program should not accept it
+Type the characer position within the string:
+111
+Too big... Position reduced to max. available
+The character found at 98 position is 't'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+
+The length is 3
+Type a string (q - to quit):
+
+The length is 0
+Type a string (q - to quit):
+#This is a CPR101 project
+The length is 25
+Type a string (q - to quit):
+This is a string input which is much larger than 79 characters and the program should not accept it
+The length is 99
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type a source string (q - to quit):
+
+New destination string is '':
+Destination string is reset to empty
+Type a source string (q - to quit):
+
+New destination string is '   ':
+Destination string is reset to empty
+Type a source string (q - to quit):
+This is an input containing a V@riety 0f characters !!!
+New destination string is 'This is an input containing a V@riety 0f characters !!!':
+Destination string is reset to empty
+Type a source string (q - to quit):
+This is a string input which is much larger than 79 characters and the program should not accept it

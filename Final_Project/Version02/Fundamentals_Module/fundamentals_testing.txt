@@ -1,0 +1,48 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+This is testing of 1 C code !!!
+Type the characer position within the string:
+29
+The character found at 29 position is '!'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Computer principles for programmers is fun!
+Type the characer position within the string:
+50
+Too big... Position reduced to max. available
+The character found at 42 position is '!'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
+Type the characer position within the string:
+10
+Too big... Position reduced to max. available
+The character found at -1 position is '╠'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+This is the input for the string which is much larger than 79 characters and it should not be accepted by the program
+Type the characer position within the string:
+90
+The character found at 90 position is ' '
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+Seneca College is the best !!!
+The length is 30
+Type a string (q - to quit):
+
+The length is 10
+Type a string (q - to quit):
+
+The length is 0
+Type a string (q - to quit):
+This is the input for the string which is much larger than 79 characters and it should not be accepted by the program
+The length is 117
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***

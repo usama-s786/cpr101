@@ -1,0 +1,138 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Hello
+Type the characer position within the string:
+3
+The character found at 3 position is 'l'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Hi, Welcome to CPR Final Project
+Type the characer position within the string:
+10
+The character found at 10 position is 'e'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+@@VERSION @2
+Type the characer position within the string:
+8
+The character found at 8 position is 'N'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+This is Testing
+The length is 15
+Type a string (q - to quit):
+MAIN file
+The length is 10
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+HII
+Type the 2st string:
+,How're you today!
+Concatenated string is 'HII,How're you today!'
+Type the 1st string (q - to quit):
+Welcome
+Type the 2st string:
+, This is our group
+Concatenated string is 'Welcome, This is our group'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+Testing of MAIN
+Type the 2nd string to compare:
+MAIN testing
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+How is this projecy
+Type the 2nd string to compare:
+Its awesome, interesting and requires teamwork
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+HII@123
+Converted number is 0
+Type the int numeric string (q - to quit):
+245@12HELLO
+Converted number is 245
+Type the int numeric string (q - to quit):
+This is testing of MAIN
+Converted number is 0
+Type the int numeric string (q - to quit):
+1234567890 is our contact
+Converted number is 1234567890
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+546th try of testing
+Converted number is 546.000000
+Type the double numeric string (q to quit) :
+Our group number is 8
+Converted number is 0.000000
+Type the double numeric string (q to quit) :
+BYE, exit 44
+Converted number is 0.000000
+Type the double numeric string (q to quit) :
+q
+*** End of Converting Strings to double Demo ***
+
+*** Start of Tokenizing Words Demo ***
+Type a few words seperated by space(q - to quit):
+HI Are How You Today
+Word is #1 is 'HI'
+Word is #2 is 'Are'
+Word is #3 is 'How'
+Word is #4 is 'You'
+Word is #5 is 'Today'
+Type a few words seperated by space(q - to quit):
+Tokenizing Testing in MAIN
+Word is #1 is 'Tokenizing'
+Word is #2 is 'Testing'
+Word is #3 is 'in'
+Word is #4 is 'MAIN'
+Type a few words seperated by space(q - to quit):
+Its good
+Word is #1 is 'Its'
+Word is #2 is 'good'
+Type a few words seperated by space(q - to quit):
+q
+*** End of the Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases seperated by comma(q - to quit):
+Hi, How are you Today? How's it going.
+phrase is #1 is 'Hi'
+phrase is #2 is ' How are you Today? How's it going.'
+Type a few phrases seperated by comma(q - to quit):
+This is the final Testing and, everything looks great
+phrase is #1 is 'This is the final Testing and'
+phrase is #2 is ' everything looks great'
+Type a few phrases seperated by comma(q - to quit):
+one last test, Just to ensure
+phrase is #1 is 'one last test'
+phrase is #2 is ' Just to ensure'
+Type a few phrases seperated by comma(q - to quit):
+q
+*** End of the Tokenizing Phrases Demo ***
+
+
+D:\CPR101\Final Project\Project Source Code\VERSION 2\Project VERSION 2\Debug\Project VERSION 2.exe (process 10724) exited with code 0.
+Press any key to close this window . . .

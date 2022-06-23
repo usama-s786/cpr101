@@ -1,0 +1,61 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+abc
+Type the 2st string:
+def
+Concatenated string is 'abcdef'
+Type the 1st string (q - to quit):
+123
+Type the 2st string:
+456
+Concatenated string is '123456'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+a
+Type the 2nd string to compare:
+b
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+1
+Type the 2nd string to compare:
+2
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+asasdsadsaddsadadsdasssssssssssssssssssssssdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Type the 2nd string to compare:
+g
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+
+*** Start of Searching Strings Demo ***
+Type the big string (q - to quit):
+anmolkataria
+Type the substring:
+anmol
+Found at 0 position
+Type the big string (q - to quit):
+mynameisanmol
+Type the substring:
+s
+Found at 7 position
+Type the big string (q - to quit):
+behappy
+//also accepting newline which it shouln't
+Type the substring:
+
+Found at 0 position
+//when input more than 79 char is given
+Type the big string (q - to quit):
+zxcvbnmzxcvbnmzxcvbnmzxcvbnmzxcvbnmzxcvbnmzxcvbnmzcmmmmxczcxzmmcmxmmxmcxmzmcmmzmczmmxzmzxmcmzmzxm
+Type the substring:
+c
+Found at 2 position
+Type the big string (q - to quit):
+q
+*** End of Searching Strings Demo ***

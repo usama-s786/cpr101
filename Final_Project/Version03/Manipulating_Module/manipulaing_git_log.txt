@@ -1,0 +1,30 @@
+Anmol@DESKTOP-NLOBCOG MINGW64 ~/desktop/final (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        addition.c
+        main.c
+        manipulating.h
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Anmol@DESKTOP-NLOBCOG MINGW64 ~/desktop/final (master)
+$ git log
+commit f94773b1631425b00c9e7b534970bac9fa1ee7a0 (HEAD -> master)
+Author: Anmol kataria <akataria5@myseneca.ca>
+Date:   Wed Dec 8 14:46:33 2021 -0500
+
+    V3
+
+commit 92f4a294b6f37c8e4abf2a76f0ae4f88a90aa489
+Author: Anmol kataria <akataria5@myseneca.ca>
+Date:   Tue Dec 7 07:52:13 2021 -0500
+
+    V2
+
+commit 861988035c5c6369d510f6e97847087ce951e9e2
+Author: Anmol kataria <akataria5@myseneca.ca>
+Date:   Tue Dec 7 07:45:52 2021 -0500
+
+    V1

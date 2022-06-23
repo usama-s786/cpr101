@@ -1,0 +1,29 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words seperated by space(q - to quit):
+asd fast
+Word is #1 is 'asd'
+Word is #2 is 'fast'
+Type a few words seperated by space(q - to quit):
+asdf jkl;
+Word is #1 is 'asdf'
+Word is #2 is 'jkl;'
+Type a few words seperated by space(q - to quit):
+q
+*** End of the Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases seperated by comma(q - to quit):
+asdf, adf
+phrase is #1 is 'asdf'
+phrase is #2 is ' adf'
+Type a few phrases seperated by comma(q - to quit):
+dfd, jkl;
+phrase is #1 is 'dfd'
+phrase is #2 is ' jkl;'
+Type a few phrases seperated by comma(q - to quit):
+q
+*** End of the Tokenizing Phrases Demo ***
+
+
+C:\Users\Acer\source\repos\CPR101_fp_version01\Debug\CPR101_fp_version01.exe (process 5684) exited with code 0.
+Press any key to close this window . . .

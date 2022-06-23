@@ -1,0 +1,184 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Hi, this testing
+Type the characer position within the string:
+13
+The character found at 13 position is 'i'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Indexing testing for final projext @@@@
+Type the characer position within the string:
+20
+The character found at 20 position is ' '
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+aaaaaaaaaaa
+The length is 11
+Type a string (q - to quit):
+This is 2nd module
+The length is 18
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type a source string (q - to quit):
+Hello
+New destination string is 'Hello':
+Destination string is reset to empty
+Type a source string (q - to quit):
+HEY'
+New destination string is 'HEY'':
+Destination string is reset to empty
+Type a source string (q - to quit):
+Bye
+New destination string is 'Bye':
+Destination string is reset to empty
+Type a source string (q - to quit):
+q
+*** End of Copying Strings Demo ***
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+This is manipulating module
+Type the 2st string:
+Welcome to its testing
+Concatenated string is 'This is manipulating moduleWelcome to its testing'
+Type the 1st string (q - to quit):
+@@@
+Type the 2st string:
+#####
+Concatenated string is '@@@#####'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+HIIIIIIIII
+Type the 2nd string to compare:
+HEEEEIIIII
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+
+*** Start of Searching Strings Demo ***
+Type the big string (q - to quit):
+Searching string demo begins
+Type the substring:
+string
+Found at 10 position
+Type the big string (q - to quit):
+Welcome to our group project for final submission (CPR101) ##
+Type the substring:
+cpr
+Not found
+Type the big string (q - to quit):
+q
+*** End of Searching Strings Demo ***
+
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+456th avenue
+Converted number is 456
+Type the int numeric string (q - to quit):
+8976478668
+Converted number is 2147483647
+Type the int numeric string (q - to quit):
+asdjsadbjs
+Converted number is 0
+Type the int numeric string (q - to quit):
+ @
+Converted number is 0
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+This is double testing module
+Converted number is 0.000000
+Type the double numeric string (q to quit) :
+34th attemot
+Converted number is 34.000000
+Type the double numeric string (q to quit) :
+456732456
+Converted number is 456732456.000000
+Type the double numeric string (q to quit) :
+q
+*** End of Converting Strings to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit) :
+This is the final module with 55th attempt
+Converted number is 0
+Type the long numeric string (q - to quit) :
+78643q4
+Converted number is 78643
+Type the long numeric string (q - to quit) :
+Hi123
+Converted number is 0
+Type the long numeric string (q - to quit) :
+5th and last try
+Converted number is 5
+Type the long numeric string (q - to quit) :
+q
+*** End of Converting Strings to long Demo ***
+
+*** Start of Tokenizing Words Demo ***
+Type a few words seperated by space(q - to quit):
+Hi, hello How are you
+Word is #1 is 'Hi,'
+Word is #2 is 'hello'
+Word is #3 is 'How'
+Word is #4 is 'are'
+Word is #5 is 'you'
+Type a few words seperated by space(q - to quit):
+i animals no bye
+Word is #1 is 'i'
+Word is #2 is 'animals'
+Word is #3 is 'no'
+Word is #4 is 'bye'
+Type a few words seperated by space(q - to quit):
+q
+*** End of the Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases seperated by comma(q - to quit):
+Hi, i am #######, WHo's this
+phrase is #1 is 'Hi'
+phrase is #2 is ' i am #######'
+phrase is #3 is ' WHo's this'
+Type a few phrases seperated by comma(q - to quit):
+
+Type a few phrases seperated by comma(q - to quit):
+q
+*** End of the Tokenizing Phrases Demo ***
+
+*** Start of Tokenizing Sentences Demo ***
+Type a few sentences seperated by dot(q - to quit):
+Hi this is final testing. This is the last module- Tokenizing. checking fo bugs right now
+Sentence is #1 is 'Hi this is final testing'
+Sentence is #2 is ' This is the last module- Tokenizing'
+Sentence is #3 is ' checking fo bugs right now'
+Type a few sentences seperated by dot(q - to quit):
+thanks, nothing found.##. Hi
+Sentence is #1 is 'thanks, nothing found'
+Sentence is #2 is '##'
+Sentence is #3 is ' Hi'
+Type a few sentences seperated by dot(q - to quit):
+q
+*** End of the Tokenizing Sentences Demo ***
+
+
+D:\CPR101\Final Project\Project Source Code\VERSION 3\Final Project Version 3\Debug\Final Project Version 3.exe (process 12492) exited with code 0.
+Press any key to close this window . . .
+

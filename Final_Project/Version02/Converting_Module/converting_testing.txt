@@ -1,0 +1,40 @@
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+hi
+Converted number is 0
+Type the int numeric string (q - to quit):
+2341
+Converted number is 2341
+Type the int numeric string (q - to quit):
+Welcome to CPR
+Converted number is 0
+Type the int numeric string (q - to quit):
+VERSION 2
+Converted number is 0
+Type the int numeric string (q - to quit):
+4 members in our group
+Converted number is 4
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+5678
+Converted number is 5678.000000
+Type the double numeric string (q to quit) :
+Welcome to CPR101
+Converted number is 0.000000
+Type the double numeric string (q to quit) :
+2nd VERSION
+Converted number is 2.000000
+Type the double numeric string (q to quit) :
+ 54
+Converted number is 54.000000
+Type the double numeric string (q to quit) :
+q
+*** End of Converting Strings to double Demo ***
+
+
+D:\CPR101\Final Project\Project Source Code\VERSION 2\Project- VERSION 2\Debug\Project- VERSION 2.exe (process 13196) exited with code 0.
+Press any key to close this window . . .

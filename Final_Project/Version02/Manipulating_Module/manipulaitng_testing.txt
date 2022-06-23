@@ -1,0 +1,40 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+qwe
+Type the 2st string:
+asd
+Concatenated string is 'qweasd'
+Type the 1st string (q - to quit):
+123
+Type the 2st string:
+456
+Concatenated string is '123456'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+a
+Type the 2nd string to compare:
+b
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+3
+Type the 2nd string to compare:
+1
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+1000
+Type the 2nd string to compare:
+1000
+1st string is equal than 2nd
+Type the 1st string to compare (q - to quit):
+asdaaaaaaaaaaaaaaaddddddddddddddddddddddddffffffffffffffffffgggggggggggggggggggggggggggggggggggggggggggggg
+Type the 2nd string to compare:
+asd
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+

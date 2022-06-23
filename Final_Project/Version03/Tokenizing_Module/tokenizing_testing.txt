@@ -1,0 +1,44 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words seperated by space(q - to quit):
+khizar sameer anmol usama
+Word is #1 is 'khizar'
+Word is #2 is 'sameer'
+Word is #3 is 'anmol'
+Word is #4 is 'usama'
+Type a few words seperated by space(q - to quit):
+version 3
+Word is #1 is 'version'
+Word is #2 is '3'
+Type a few words seperated by space(q - to quit):
+q
+*** End of the Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases seperated by comma(q - to quit):
+khizar said to anmol, sameer is team leader
+phrase is #1 is 'khizar said to anmol'
+phrase is #2 is ' sameer is team leader'
+Type a few phrases seperated by comma(q - to quit):
+usama is good, loyal and intelligent
+phrase is #1 is 'usama is good'
+phrase is #2 is ' loyal and intelligent'
+Type a few phrases seperated by comma(q - to quit):
+q
+*** End of the Tokenizing Phrases Demo ***
+
+*** Start of Tokenizing Sentences Demo ***
+Type a few sentences seperated by dot(q - to quit):
+Khizar has done his work. Anmol has done his work.
+Sentence is #1 is 'Khizar has done his work'
+Sentence is #2 is ' Anmol has done his work'
+Type a few sentences seperated by dot(q - to quit):
+Usama has done his work. Sameer has done his work.
+Sentence is #1 is 'Usama has done his work'
+Sentence is #2 is ' Sameer has done his work'
+Type a few sentences seperated by dot(q - to quit):
+q
+*** End of the Tokenizing Sentences Demo ***
+
+
+C:\Users\Acer\source\repos\CP4P_version3_fp\Debug\CP4P_version3_fp.exe (process 26228) exited with code 0.
+Press any key to close this window . . .

@@ -1,0 +1,51 @@
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+hi
+Converted number is 0
+Type the int numeric string (q - to quit):
+aa
+Converted number is 0
+Type the int numeric string (q - to quit):
+123
+Converted number is 123
+Type the int numeric string (q - to quit):
+874362324
+Converted number is 874362324
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+My name is Sameer Ali
+Converted number is 0.000000
+Type the double numeric string (q to quit) :
+23
+Converted number is 23.000000
+Type the double numeric string (q to quit) :
+3233231
+Converted number is 3233231.000000
+Type the double numeric string (q to quit) :
+ @123
+Converted number is 0.000000
+Type the double numeric string (q to quit) :
+q
+*** End of Converting Strings to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit) :
+CPR 101
+Converted number is 0
+Type the long numeric string (q - to quit) :
+3rd version
+Converted number is 3
+Type the long numeric string (q - to quit) :
+13 pro 128 gb
+Converted number is 13
+Type the long numeric string (q - to quit) :
+q
+*** End of Converting Strings to long Demo ***
+
+
+D:\CPR101\Final Project\Project Source Code\VERSION 3\Final Project Version 3\Debug\Final Project Version 3.exe (process 13836) exited with code 0.
+Press any key to close this window . . .
